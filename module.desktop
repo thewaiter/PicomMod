@@ -1,0 +1,27 @@
+[Desktop Entry]
+Type=Link
+Name=PicomMod
+Name[be]=PicomMod
+Name[es]=PicomMod
+Name[it]=PicomMod
+Name[ml]=കോമ്പ്ട്ടണ്മോഡ്
+Name[pl]=PicomMod
+Name[pt]=PicomMod
+Name[ru]=PicomMod
+Name[sk]=PicomMod
+Name[cs]=PicomMod
+Name[pt_BR]=PicomMod
+Icon=e-module-PicomMod
+X-Enlightenment-ModuleType=look
+Comment=Module to run Picom compositor.
+Comment[be]=Модуль для запуску кампазітнага менеджара Picom.
+Comment[es]=Módulo para ejecutar el compositor Picom.
+Comment[fr]=Module d'activation du compositeur Picom.
+Comment[it]=Modulo di attivazione del compositore Picom.
+Comment[ml]=കോമ്പ്ട്ടൺ കമ്പോസിറ്റർ പ്രവർത്തിപ്പിക്കുന്നതിനുള്ള മൊഡ്യൂൾ.
+Comment[pl]=Moduł aktywacji kompozytoru Picom.
+Comment[pt]=Módulo para executar o compositor Picom.
+Comment[ru]=Модуль для запуска композитного менеджера Picom.
+Comment[sk]=Modul na aktiváciu Picom kompositora.
+Comment[cs]=Modul pro aktivaci kompozitoru Picom.
+Comment[pt_BR]=Módulo para executar o compositor Picom.
