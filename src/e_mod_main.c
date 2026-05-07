@@ -11,7 +11,7 @@ EAPI E_Module_Api e_modapi = {
 };
 
 EAPI void *
-e_modapi_init (E_Module * m)
+e_modapi_init(E_Module *m)
 {
    Ecore_Exe *exe;
    comp_module = m;
@@ -36,7 +36,7 @@ e_modapi_init (E_Module * m)
 }
 
 EAPI int
-e_modapi_shutdown (E_Module * m __UNUSED__)
+e_modapi_shutdown(E_Module *m __UNUSED__)
 {
    Ecore_Exe *exe;
    comp_module = NULL;
@@ -49,7 +49,7 @@ e_modapi_shutdown (E_Module * m __UNUSED__)
 }
 
 EAPI int
-e_modapi_save(E_Module * m  __UNUSED__)
+e_modapi_save(E_Module *m  __UNUSED__)
 {
    return 1;
 }
